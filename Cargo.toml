@@ -3,6 +3,7 @@ name = "trackerx"
 version = "0.1.0"
 edition = "2024"
 authors = ["Chewawi <rafael.noraa08@proton.me>"]
+license-file = "LICENSE"
 description = "A universal CLI tracker for anything."
 repository = "https://github.com/KodekoStudios/trackerx"
 homepage = "https://github.com/KodekoStudios/trackerx"
