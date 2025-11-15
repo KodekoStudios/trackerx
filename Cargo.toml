@@ -9,7 +9,7 @@ repository = "https://github.com/KodekoStudios/trackerx"
 homepage = "https://github.com/KodekoStudios/trackerx"
 readme = "README.md"
 keywords = ["cli", "data", "productivity", "tracker"]
-categories = ["cli", "command-line-utilities"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 chrono = "0.4.42"
