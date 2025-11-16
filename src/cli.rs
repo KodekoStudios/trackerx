@@ -10,6 +10,7 @@ pub struct Cli {
 pub enum Commands {
     Add {
         category: String,
+        #[arg(allow_negative_numbers = true)]
         value: f64,
         note: Option<String>,
     },

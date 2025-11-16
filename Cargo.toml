@@ -1,6 +1,6 @@
 [package]
 name = "trackerx"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Chewawi <rafael.noraa08@proton.me>"]
 license-file = "LICENSE"
